@@ -1,4 +1,4 @@
-[ALt text](https://raw.githubusercontent.com/abdo-skhairi/get-next-line/refs/heads/main/image.png)
+![ALt text](https://raw.githubusercontent.com/abdo-skhairi/get-next-line/refs/heads/main/image.png)
 ### Steps to Implement get_next_line:
 
 1. **Function Input**:
