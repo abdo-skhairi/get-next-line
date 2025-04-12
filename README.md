@@ -32,3 +32,10 @@
 8. **🧹 Memory Management**:
    - Ensure proper memory allocation and freeing for temporary and dynamic buffers.
    - Avoid memory leaks by cleaning up the static buffer when the file is fully read.
+
+## 📬 Contact Me
+
+- 📧 **Email:** skhairi.abderahmane@gmail.com  
+- 📸 **Instagram:** [@abdo.skh](https://instagram.com/abdo.skh)
+
+---
